@@ -1,0 +1,2 @@
+# Persistence-Entropy-Relates-Rest-Activity-During-Pregnancy-to-Unfavorable-Health-Outcomes
+This repository contains the thesis and supporting code for the Master’s thesis submitted by **Sashiel Vagus** to **San Diego State University** in Spring 2024, in partial fulfillment of the requirements for the degree **Master of Science in Applied Mathematics**, with a concentration in **Dynamical Systems**.
