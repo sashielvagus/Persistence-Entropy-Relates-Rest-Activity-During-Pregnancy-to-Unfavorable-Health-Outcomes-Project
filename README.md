@@ -2,7 +2,7 @@
 
 This repository contains the thesis and supporting code for the Master’s thesis submitted by **Sashiel Vagus** to **San Diego State University** in Spring 2024, in partial fulfillment of the requirements for the degree **Master of Science in Applied Mathematics**, with a concentration in **Dynamical Systems**.
 
-📄 **Full Thesis**: [`2024_Math_Thesis_Template.pdf`](./2024_Math_Thesis_Template.pdf)  
+📄 **Full Thesis**: [`PersistenceEntropy_PregnancyOutcomes_Thesis.pdf`](./PersistenceEntropy_PregnancyOutcomes_Thesis.pdf)  
 📊 **Main Notebook**: [`Rips_dim1_extended.ipynb`](./Rips_dim1_extended.ipynb)
 
 ---
