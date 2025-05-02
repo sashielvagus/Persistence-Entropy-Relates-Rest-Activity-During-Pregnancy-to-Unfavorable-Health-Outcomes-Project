@@ -2,12 +2,12 @@
 
 This repository contains the thesis and supporting code for the Master’s thesis submitted by **Sashiel Vagus** to **San Diego State University** in Spring 2024, in partial fulfillment of the requirements for the degree **Master of Science in Applied Mathematics**, with a concentration in **Dynamical Systems**.
 
-📄 **Full Thesis**: [`PersistenceEntropy_PregnancyOutcomes_Thesis.pdf`](./PersistenceEntropy_PregnancyOutcomes_Thesis.pdf)  
-📊 **Main Notebook**: [`Rips_dim1_extended.ipynb`](./Rips_dim1_extended.ipynb)
+ **Full Thesis**: [`PersistenceEntropy_PregnancyOutcomes_Thesis.pdf`](./PersistenceEntropy_PregnancyOutcomes_Thesis.pdf)  
+ **Main Notebook**: [`Rips_dim1_extended.ipynb`](./Rips_dim1_extended.ipynb)
 
 ---
 
-## 🧠 Project Summary
+##  Project Summary
 
 This thesis applies **topological data analysis (TDA)** — specifically **persistent entropy** — to actigraphy data collected from pregnant women during gestation weeks 22 and 32. Persistent entropy quantifies disorder in temporal patterns and is used here to assess correlations between **rest-activity rhythms** and **maternal and newborn health outcomes**.
 
@@ -19,7 +19,7 @@ Key findings show that:
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 - **Data**: Actigraphy wrist-worn device (30-sec epoch) from G22 (n=41) and G32 (n=44)
 - **Processing Steps**:
@@ -31,7 +31,7 @@ Key findings show that:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3.8+
 - Libraries:
@@ -40,7 +40,7 @@ Key findings show that:
 
 ---
 
-## 🧪 Results
+##  Results
 
 - Women with entropy values **above 8.22** were significantly more likely to have pregnancy complications.
 - The **variability** in entropy across days was also strongly associated with maternal or newborn complications.
@@ -48,7 +48,7 @@ Key findings show that:
 
 ---
 
-## 👥 Thesis Committee
+##  Thesis Committee
 
 - **Chair**: Dr. Uduak George (Mathematics & Statistics)  
 - **Committee Members**:
@@ -58,13 +58,13 @@ Key findings show that:
 
 ---
 
-## 📚 Citation
+##  Citation
 
 > Vagus, S. (2024). *Persistence Entropy Relates Rest-Activity During Pregnancy to Unfavorable Health Outcomes in Maternal and Newborn Health* (Master’s thesis, San Diego State University).
 
 ---
 
-## 📩 Contact
+##  Contact
 
 **Sashiel Vagus**  
 Email: svagus@sdsu.edu  
@@ -72,6 +72,6 @@ GitHub: [@sashielvagus](https://github.com/sashielvagus)
 
 ---
 
-## 🪪 License
+##  License
 
 This repository is shared for academic, educational, and research purposes. For reuse or collaboration, please contact the author.
