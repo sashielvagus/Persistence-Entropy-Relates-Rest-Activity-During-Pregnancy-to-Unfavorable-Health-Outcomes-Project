@@ -67,7 +67,7 @@ Key findings show that:
 ##  Contact
 
 **Sashiel Vagus**  
-Email: svagus@sdsu.edu  
+Email: svagus2@sdsu.edu  
 GitHub: [@sashielvagus](https://github.com/sashielvagus)
 
 ---
